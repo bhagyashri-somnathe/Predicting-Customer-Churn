@@ -1,23 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # INSAID Hiring Exercise
-
-# ## Important: Kindly go through the instructions mentioned below.
-# 
-# - The Sheet is structured in **4 steps**:
-#     1. Understanding data and manipulation
-#     2. Data visualization
-#     3. Implementing Machine Learning models(Note: It should be more than 1 algorithm)
-#     4. Model Evaluation and concluding with the best of the model.
-#     
-#     
-#     
-# 
-# - Try to break the codes in the **simplest form** and use number of code block with **proper comments** to them
-# - We are providing **h** different dataset to choose from(Note: You need to select any one of the dataset from this sample sheet only)
-# - The **interview calls** will be made solely based on how good you apply the **concepts**.
-# - Good Luck! Happy Coding!
 
 # ### Importing required libraries
 
